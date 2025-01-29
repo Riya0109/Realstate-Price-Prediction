@@ -3,5 +3,7 @@ This project focuses on building a Real Estate Price Prediction Model using mach
 
 This project involves:
 ✅ Data Cleaning & Preprocessing
+
 ✅ Feature Engineering & Dimensionality Reduction
+
 ✅ Model Training & Evaluation
