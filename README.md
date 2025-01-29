@@ -1,5 +1,7 @@
 # Real-Estate-Price-Prediction
 This project focuses on building a Real Estate Price Prediction Model using machine learning techniques. The model predicts house prices based on various features such as square footage, number of bedrooms, and location. The dataset used is the Bangalore home prices dataset from Kaggle.
+![image](https://github.com/user-attachments/assets/83b356b9-063d-40fd-8c5c-aca1ac91a507)
+
 
 This project involves:
 
